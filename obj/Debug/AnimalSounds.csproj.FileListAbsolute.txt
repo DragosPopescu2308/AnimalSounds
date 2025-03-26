@@ -1,0 +1,7 @@
+C:\Users\drago\source\repos\AnimalSounds\AnimalSounds\bin\Debug\AnimalSounds.exe.config
+C:\Users\drago\source\repos\AnimalSounds\AnimalSounds\bin\Debug\AnimalSounds.exe
+C:\Users\drago\source\repos\AnimalSounds\AnimalSounds\bin\Debug\AnimalSounds.pdb
+C:\Users\drago\source\repos\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.csproj.AssemblyReference.cache
+C:\Users\drago\source\repos\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.csproj.CoreCompileInputs.cache
+C:\Users\drago\source\repos\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.exe
+C:\Users\drago\source\repos\AnimalSounds\AnimalSounds\obj\Debug\AnimalSounds.pdb
