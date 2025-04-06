@@ -1,0 +1,24 @@
+# Folders de build
+bin/
+obj/
+
+# Fisiere de build pentru Visual Studio
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Fisierele de configurare ale Visual Studio
+.vs/
+
+# Fisierele de configurare ale Rider
+.idea/
+
+# Fișierele generate de compilator
+*.mdb
+*.dbmdl
