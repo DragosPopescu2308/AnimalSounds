@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 
-
 class Program
 {
     static void Main()
@@ -13,9 +12,9 @@ class Program
             new Cow()
         };
 
-        foreach(var animal in animals)
+        foreach (var animal in animals)
         {
-            Console.WriteLine($"{animal.Name} makes sound:  {animal.MakeSound()}");
+            Console.WriteLine($"{animal.GetType().Name} makes sound: {animal.MakeSound()}");
         }
     }
 }
