@@ -1,15 +1,20 @@
 ﻿using System;
+using System.Collections.Generic;
 
 class Program
 {
     static void Main()
     {
-        string[] Animals = { "Dog", "Cat", "Cow" };
-        string[] Sounds = { "Ham! Ham!", "Miau!", "MUUUU!" };
-
-        for(int i=0; i<Animals.Length; i++)
+        List<IAnimal> animals = new List<IAnimal>
         {
-            Console.WriteLine($"{Animals[i]} makes sound:  {Sounds[i]}");
+            new Dog(),
+            new Cat(),
+            new Cow()
+        };
+
+        foreach (var animal in animals)
+        {
+            Console.WriteLine($"{animal.GetType().Name} makes sound: {animal.MakeSound()}");
         }
     }
 }
