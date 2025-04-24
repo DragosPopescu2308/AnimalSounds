@@ -52,7 +52,7 @@ Am schimbat branch-ul pe GitHub pentru a lucra pe varianta refactorizata (ex: re
 Am creat un Pull Request pentru a propune modificarile si pentru a le revizui inainte de a le fuziona in branch-ul principal (main).
 
 ### Feedback si fuzionarea branch-ului:
-Dupa primirea feedback-ului, am refactorizat codul (daca a fost necesar) si am fuzionat branch-ul refactoring-branch in main.
+Dupa primirea feedback-ului, am refactorizat codul si am fuzionat branch-ul refactoring-branch in main.
 
 ## Comenzi Git utilizate:
 
