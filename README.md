@@ -2,10 +2,14 @@
 **Nume student:** Popescu Dragos
 
 ## Implementarea problemei AnimalSounds
+
+### Branchul principal este main.
+
+
 Pentru implementarea acestei probleme am urmat pasii:
 
 
-### Branchul principal este main.
+
 
 
 ### Crearea aplicatiei consola simpla:
