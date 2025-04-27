@@ -4,6 +4,8 @@
 ## Implementarea problemei AnimalSounds
 Pentru implementarea acestei probleme am urmat pasii:
 
+## Branchul principal este main.
+
 ### Crearea aplicatiei consola simpla:
 Initial am creat o aplicatie consola simpla care nu respecta principiile OOP, pentru a putea lucra la ea si pentru a putea face refactorizare pe aceasta.
 
